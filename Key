@@ -15,7 +15,7 @@ local function createDualKeySystemGUI()
     local CONFIG = {
         LinkvertiseURL = "https://direct-link.net/3394206/oPxiInqdtXop",
         LootLabsURL = "https://lootdest.org/s?cDhZ1mjH&data=yFZi/rLXdaKo2F5uwqz8hUT4s5CFLevv1JjPMGzxOkI%3D",
-        MainScriptUrl = "https://raw.githubusercontent.com/FayyMeng/Star-Fishing/refs/heads/main/Star%20Fishing%20lua",
+        MainScriptUrl = "https://raw.githubusercontent.com/FayyMeng/Fish-A-Brainrot/refs/heads/main/FishBrainrot%20lua",
         DiscordURL = "https://discord.gg/Dz2BafGg7",
     }
     
