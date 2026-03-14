@@ -35,7 +35,7 @@ end
 
 if isAlreadyAuthenticated() then
     pcall(function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/FayyMeng/FayyScript/refs/heads/main/FayyScript.lua", true))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/FayyMeng/Fish-A-Brainrot/refs/heads/main/FishBrainrot%20lua", true))()
     end)
     return
 end
@@ -43,7 +43,7 @@ end
 local function createSingleKeySystemGUI()
     local CONFIG = {
         LootLabsURL = "https://loot-link.com/s?asr4jtQg&data=7hDViHN3IUApLO81kcTWQt1mfqJ9xTstscmiaKXZn3yD95W1zCMRvIDR/%2BdD81f0",
-        MainScriptUrl = "https://raw.githubusercontent.com/FayyMeng/FayyScript/refs/heads/main/FayyScript.lua",
+        MainScriptUrl = "https://raw.githubusercontent.com/FayyMeng/Fish-A-Brainrot/refs/heads/main/FishBrainrot%20lua",
         DiscordURL = "https://discord.gg/Dz2BafGg7",
     }
    
